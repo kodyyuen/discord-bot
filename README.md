@@ -1,0 +1,3 @@
+
+# Discord Bot
+I made this Discord bot over the summer as a fun personal project. I started the project because I wanted to get back into coding and learn some Python. I was also getting very interested in the stock market and cryptocurrency at the time. So, I coded a bot that has several commands related to that using the Discord library. Using public APIs that I found online, I was able to create commands that call on requests, parse the JSONs that I received back, and format the information I wanted in an embedded message in Discord. My commands include a currency converter between cryptocurrency and fiat, and stock commands which take in the ticker and can return the current stock price, current news of the company, or a summary of the company.
